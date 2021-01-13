@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Pas de télé, pas de bière, ça rend fou homer !
 Use the left arrow to go back!
